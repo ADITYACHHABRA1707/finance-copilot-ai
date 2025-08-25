@@ -1,0 +1,34 @@
+Good afternoon respected judges and fellow participants.
+
+I present to you Finance Copilot AI, a next-generation personal finance assistant designed to empower millions of Indian users through seamless AI-driven insights and human-in-the-loop control, powered by Portia AI agents.
+
+The Problem:
+Traditional finance apps often fail to address regional needs like conversational interfaces, multi-language support, and real-time interaction on platforms users already prefer—such as WhatsApp. Moreover, financial AI without proper oversight can lead to risky decisions or user mistrust.
+
+Our Solution:
+Finance Copilot AI bridges these gaps by integrating intelligent Portia agents that not only analyze your expenses and investments but do so with full transparency and control. Our app lets users track expenses via WhatsApp chats or a sleek Streamlit dashboard, with AI plans that pause for clarifications and require approvals before high-risk actions, ensuring safety and compliance.
+
+Key Features:
+
+Multi-agent orchestration for expense analysis, investment advice, and compliance monitoring.
+
+Human-in-the-loop workflows using Portia’s powerful planning and clarification hooks.
+
+Multi-tool integration including banking APIs, WhatsApp messaging, and receipt OCR.
+
+Interactive dashboard displaying AI plans, insights, and logs for full auditability.
+
+Regional language and voice-input support to increase accessibility.
+
+Technology Stack:
+Portia AI Python SDK powers the autonomous agents, FastAPI orchestrates backend services, Twilio facilitates WhatsApp communication, and Streamlit delivers a user-friendly UI—deployed live on Streamlit Cloud.
+
+Impact:
+With over 400 million WhatsApp users in India alone, Finance Copilot AI democratizes intelligent financial planning and fraud detection for underserved populations. It promotes financial literacy and inclusion while maintaining strict regulatory compliance.
+
+Why We Will Win:
+Our project uniquely leverages Portia AI’s cutting-edge controllable agent framework to deliver a robust, safe, and user-centric finance app. We combine creativity, technical depth, and real-world impact by addressing critical pain points through innovative multi-agent collaboration and secure human oversight.
+
+We invite you to experience our live demo to see how intelligent automation with human control can revolutionize personal finance.
+
+Thank you for your time and consideration.
