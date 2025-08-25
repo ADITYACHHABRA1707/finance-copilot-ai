@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn
+portia-sdk
+pandas
+prophet
+matplotlib
+requests
+twilio
+python-dotenv
